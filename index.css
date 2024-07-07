@@ -1,0 +1,60 @@
+*{
+	text-decoration:none ;
+}
+.navbar{
+	background-color: darkblue;
+	font-family: calibri;
+	padding-right: 15px;
+	padding-left: 15px;
+	
+}
+.navdiv{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo a{
+	font-size: 37px;
+	font-weight: 700;
+	display: inline-block;
+
+}
+
+li a{
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	margin-right: 25px;
+
+}
+li{
+	list-style: none;
+	display: inline-block;
+	color: white;
+	
+	
+
+
+}
+
+
+
+}
+
+
+}
+
+	
+	
+	
+	
+	
+
+
+}
+
+.box{
+height: 30px;
+display: inline-flex;
+margin-right: 25px;
+margin-left: 10px}

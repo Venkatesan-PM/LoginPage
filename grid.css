@@ -1,0 +1,44 @@
+body{
+	display: flex;
+}
+.para1{
+	background-color: green;
+	flex: 1;
+	
+
+
+}
+.para2{
+	background-color: red;
+	flex: 1;
+}
+.para3{
+	background-color: yellow;
+	flex: 1;
+}
+.para4{
+	background-color: violet;
+	flex: 1;
+}
+p{
+	padding: 10px;
+}
+.para{
+	display: flex;
+	background-color: green;
+	justify-content: space-between;
+	width: 600px;
+	height: 500px;
+	margin: auto;
+	margin-top: 30px;
+	
+
+
+
+}
+.p1{
+	border: 8px solid white;
+	
+
+
+}
